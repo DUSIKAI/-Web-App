@@ -5,5 +5,6 @@
 ## 用法
 
 ```sh
-npm start
+您可以先通过 node index.js 启动 train-ticket-server
+在通过 npm start 启动train-ticket
 ```
